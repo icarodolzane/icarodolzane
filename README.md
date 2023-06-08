@@ -1,5 +1,5 @@
 # 💫 About Me:
-:computer: :pencil: :white_square_button:	 I'm currently studying web development at Trybe.<br> :v:  :mortar_board: I'm currently learning Frontend stacks at Trybe.<br> :telescope: I'm looking for help to evolve my skills and improve my knowledge in Web Development.<br>  :speech_balloon: Ask me about...
+:computer: :pencil: :white_square_button:	 I'm currently studying web development at Trybe.<br> :v:  :mortar_board: I'm currently learning Backend stacks at Trybe.<br> :telescope: I'm looking for help to evolve my skills and improve my knowledge in Web Development.<br>  :speech_balloon: Ask me about...
 
 
 ## 🌐 Socials:
