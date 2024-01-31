@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I'm currently working at IATECAM - Instituto Ambiental e Tecnológico da Amazônia.<br>🏫 I'm currently studying Systems Analysis and Development<br>🛠️ I'm working as Fullstack web developer with Angular in Frontend and FastAPI in Backend. 
+🖥️ I'm currently working at IATECAM - Instituto Ambiental e Tecnológico da Amazônia.<br>🏫 I'm currently studying Systems Analysis and Development Degree<br>🛠️ I'm working as Fullstack web developer with Angular in Frontend and FastAPI in Backend. 
 
 
 ## 🌐 Socials:
